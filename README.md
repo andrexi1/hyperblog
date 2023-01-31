@@ -10,5 +10,6 @@ En este curso vemos de todo:
 *El verdadero amor por las buenas practicas 
 *Trucos muy locos del profesor 
 *Las personalidades multiples de feddy
+*creado por el increible platzi team 
 
 y como un amable recordatorio **este readme.md es un chiste**
