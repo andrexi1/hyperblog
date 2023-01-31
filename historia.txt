@@ -6,6 +6,8 @@ viviendo en todo el mundo
 
 master1
 
+master2
+
 anita platzi es una persona que contribuye a este proyecto opensource y nacio en internet 
 
 Hoy hablaremos de su vida y obra maestra 
