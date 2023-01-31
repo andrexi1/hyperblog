@@ -11,5 +11,6 @@ En este curso vemos de todo:
 *Trucos muy locos del profesor 
 *Las personalidades multiples de feddy
 *creado por el increible platzi team 
+*incluye ejemplos en windows linux y mac
 
 y como un amable recordatorio **este readme.md es un chiste**
